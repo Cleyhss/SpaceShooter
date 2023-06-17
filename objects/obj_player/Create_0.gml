@@ -1,7 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-velocidade = 5;
+velocidade = 6;
 
 atirar = function(){
 	var fire = keyboard_check_pressed(vk_space);
