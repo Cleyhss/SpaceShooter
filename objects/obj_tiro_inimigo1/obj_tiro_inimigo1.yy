@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_inimigo_1",
+  "name": "obj_tiro_inimigo1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_inimigo_1",
-    "path": "sprites/spr_inimigo_1/spr_inimigo_1.yy",
+    "name": "spr_tiro_inimigo1",
+    "path": "sprites/spr_tiro_inimigo1/spr_tiro_inimigo1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
