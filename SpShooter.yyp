@@ -46,6 +46,7 @@
     {"id":{"name":"obj_inimigo2","path":"objects/obj_inimigo2/obj_inimigo2.yy",},},
     {"id":{"name":"spr_fundo_extra2","path":"sprites/spr_fundo_extra2/spr_fundo_extra2.yy",},},
     {"id":{"name":"obj_inimigo_1","path":"objects/obj_inimigo_1/obj_inimigo_1.yy",},},
+    {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"obj_tiro_inimigo2","path":"objects/obj_tiro_inimigo2/obj_tiro_inimigo2.yy",},},
     {"id":{"name":"spr_brilho_inimigo1","path":"sprites/spr_brilho_inimigo1/spr_brilho_inimigo1.yy",},},
     {"id":{"name":"spr_brilho_tiro1","path":"sprites/spr_brilho_tiro1/spr_brilho_tiro1.yy",},},

@@ -4,6 +4,7 @@
 // Inherit the parent event
 event_inherited();
 
+pontos = 20;
 posso_mover = true;
 
  atirar = function(){

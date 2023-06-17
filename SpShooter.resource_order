@@ -26,6 +26,7 @@
     {"name":"obj_impacto_tiro","order":1,"path":"objects/obj_impacto_tiro/obj_impacto_tiro.yy",},
     {"name":"obj_inimigo2","order":2,"path":"objects/obj_inimigo2/obj_inimigo2.yy",},
     {"name":"spr_fundo_extra2","order":3,"path":"sprites/spr_fundo_extra2/spr_fundo_extra2.yy",},
+    {"name":"obj_control","order":3,"path":"objects/obj_control/obj_control.yy",},
     {"name":"obj_tiro_inimigo2","order":3,"path":"objects/obj_tiro_inimigo2/obj_tiro_inimigo2.yy",},
     {"name":"spr_brilho_inimigo1","order":6,"path":"sprites/spr_brilho_inimigo1/spr_brilho_inimigo1.yy",},
     {"name":"spr_brilho_tiro1","order":5,"path":"sprites/spr_brilho_tiro1/spr_brilho_tiro1.yy",},
