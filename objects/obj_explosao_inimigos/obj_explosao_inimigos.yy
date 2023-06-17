@@ -1,17 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tiro_inimigo1",
+  "name": "obj_explosao_inimigos",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Inimigos",
-    "path": "folders/Objetos/Inimigos.yy",
+    "name": "Etc",
+    "path": "folders/Objetos/Etc.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tiro_inimigo1",
-    "path": "sprites/spr_tiro_inimigo1/spr_tiro_inimigo1.yy",
+    "name": "spr_explosao_inimigos",
+    "path": "sprites/spr_explosao_inimigos/spr_explosao_inimigos.yy",
   },
   "spriteMaskId": null,
   "visible": true,
