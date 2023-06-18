@@ -1,6 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-draw_text(20, 20, pontos);
+// Inherit the parent event
+event_inherited();
 
-draw_text(20, 40, level);
+brilho = spr_brilho_inimigo1;

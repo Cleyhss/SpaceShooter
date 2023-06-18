@@ -11,3 +11,11 @@ y += (down - up) * velocidade;
 x += (right - left) * velocidade;
 
 atirar();
+
+if ((keyboard_check_pressed(vk_up))&&(level_tiro < 5)){
+	level_tiro++;
+}
+
+if ((keyboard_check_pressed(vk_down))&&(level_tiro > 1)){
+	level_tiro--;
+}
