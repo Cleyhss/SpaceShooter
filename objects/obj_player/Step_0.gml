@@ -12,10 +12,20 @@ x += (right - left) * velocidade;
 
 atirar();
 
-if ((keyboard_check_pressed(vk_up))&&(level_tiro < 5)){
+/*
+if ((keyboard_check_pressed(vk_up))&&(level_tiro < 6)){
 	level_tiro++;
 }
 
 if ((keyboard_check_pressed(vk_down))&&(level_tiro > 1)){
 	level_tiro--;
 }
+
+if (keyboard_check_pressed(vk_left)){
+	espera_tiro*= .9;
+}
+
+if (keyboard_check_pressed(vk_right)){
+	espera_tiro*= 1.2 ;
+}*/
+
