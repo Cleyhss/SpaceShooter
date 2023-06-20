@@ -3,7 +3,7 @@
  vspeed = 4;
  pontos = 10;
  alarm[0] = room_speed * random_range(1,3) ;
- chance = 20;
+ chance = 10;
  
  if (place_meeting(x, y, obj_inimigo_1)){
 	instance_destroy(id, false);	 
