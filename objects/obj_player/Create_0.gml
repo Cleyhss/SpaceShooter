@@ -77,7 +77,7 @@ level_up = function(_chance){
 		}
 	}
 	else if ((_chance >= 45)&&(_chance < 90)){
-		if (espera_tiro > 16){
+		if (espera_tiro > 13){
 			espera_tiro *= 0.9;
 		}
 	}

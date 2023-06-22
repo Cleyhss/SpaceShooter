@@ -6,7 +6,7 @@ event_inherited();
 
 pontos = 20;
 posso_mover = true;
-chance = 15;
+chance = 20;
 
  atirar = function(){
 	if (y>=0){

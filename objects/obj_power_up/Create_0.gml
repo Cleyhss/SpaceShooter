@@ -2,6 +2,7 @@
 // Você pode escrever seu código neste editor
 
 chance = random(100); 
+status_alvo = noone;
 
 speed = 2;
 direction = irandom(359);
